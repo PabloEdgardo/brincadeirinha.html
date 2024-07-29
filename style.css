@@ -32,6 +32,12 @@ img {
     border: 3px solid white;
 }
 
+div p {
+    padding: 30px;
+    font-size: 20px;
+    text-align:justify;
+}
+
 footer {
     padding: 20px;
     border-top: 1px solid #666;
